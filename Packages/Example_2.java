@@ -1,6 +1,8 @@
-//Import a package from the Java API
+////////////////////////////////////////
+// Import a package from the Java API //
+////////////////////////////////////////
 
-import java.util.*; // import the java.util package 
+import java.util.*; // Import the java.util package 
 
 public class Example_2 {
     public static void main(String[] args) {
@@ -14,3 +16,12 @@ public class Example_2 {
         System.out.println("\nUsername is: " + userName);        
     }
 }
+
+/*
+Output:
+
+Enter username:
+Luis
+
+Username is: Luis
+*/

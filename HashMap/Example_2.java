@@ -1,4 +1,6 @@
-//Access an item in a HashMap
+/////////////////////////////////
+// Access an item in a HashMap //
+/////////////////////////////////
 
 import java.util.HashMap;
 
@@ -13,3 +15,9 @@ public class Example_2 {
         System.out.println(capitalCities.get("England"));
     }
 }
+
+/*
+Output:
+
+London
+*/

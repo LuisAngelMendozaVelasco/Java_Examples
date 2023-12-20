@@ -1,4 +1,6 @@
-//Loop through a HashSet
+////////////////////////////
+// Loop through a HashSet //
+////////////////////////////
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -17,3 +19,12 @@ public class Example_6 {
         }
     }
 }
+
+/*
+Output:
+
+Volvo
+Mazda
+Ford
+BMW
+*/

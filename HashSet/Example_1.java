@@ -1,6 +1,8 @@
-//Create a HashSet and add items to it
+//////////////////////////////////////////
+// Create a HashSet and add items to it //
+//////////////////////////////////////////
 
-//A HashSet is a collection of items where every item is unique
+// A HashSet is a collection of items where every item is unique
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -17,3 +19,9 @@ public class Example_1 {
         System.out.println(cars);
     }
 }
+
+/*
+Output:
+
+[Volvo, Mazda, Ford, BMW]
+*/

@@ -1,4 +1,6 @@
-//Create a boolean type
+///////////////////////////
+// Create a boolean type //
+///////////////////////////
 
 public class Example_1 {
     public static void main(String[] args) {
@@ -9,3 +11,10 @@ public class Example_1 {
         System.out.println(isFishTasty);
     }
 }
+
+/*
+Output:
+
+true
+false
+*/

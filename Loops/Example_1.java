@@ -1,4 +1,6 @@
-//While loop
+////////////////
+// While loop //
+////////////////
 
 public class Example_1 {
     public static void main(String[] args) {
@@ -10,3 +12,13 @@ public class Example_1 {
         }  
     }
 }
+
+/*
+Output:
+
+0
+1
+2
+3
+4
+*/

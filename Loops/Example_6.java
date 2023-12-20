@@ -1,4 +1,6 @@
-//Continue a loop
+/////////////////////
+// Continue a loop //
+/////////////////////
 
 public class Example_6 {
     public static void main(String[] args) {
@@ -10,3 +12,17 @@ public class Example_6 {
         }  
     }
 }
+
+/*
+Output:
+
+0
+1
+2
+3
+5
+6
+7
+8
+9
+*/

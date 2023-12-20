@@ -1,4 +1,6 @@
-//Remove all items from an ArrayList
+////////////////////////////////////////
+// Remove all items from an ArrayList //
+////////////////////////////////////////
 
 import java.util.ArrayList;
 
@@ -14,3 +16,9 @@ public class Example_4 {
         System.out.println(cars);
     } 
 }
+
+/*
+Output:
+
+[]
+*/

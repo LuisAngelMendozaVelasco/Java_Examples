@@ -1,4 +1,6 @@
-//Public attributes
+///////////////////////
+// Public attributes //
+///////////////////////
 
 public class Example_3 {
     public static void main(String[] args) {
@@ -9,3 +11,11 @@ public class Example_3 {
         System.out.println("Age: " + myObj.age);
     }
 }
+
+/*
+Output:
+
+Name: Luis Mendoza
+Email: luis@mendoza.com
+Age: 29
+*/

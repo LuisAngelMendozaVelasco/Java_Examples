@@ -1,7 +1,15 @@
-//Math.random() - return a random number between 0 and 
+//////////////////////////////////////////////////////////
+// Math.random() - return a random number between 0 and //
+//////////////////////////////////////////////////////////
 
 public class Example_5 {
     public static void main(String[] args) {
         System.out.println(Math.random());  
     }
 }
+
+/*
+Output:
+
+0.9786897341792686
+*/

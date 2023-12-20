@@ -1,4 +1,6 @@
-//Remove all items from a HashSet
+/////////////////////////////////////
+// Remove all items from a HashSet //
+/////////////////////////////////////
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -16,3 +18,9 @@ public class Example_4 {
         System.out.println(cars);
     }
 }
+
+/*
+Output:
+
+[]
+*/

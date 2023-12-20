@@ -1,4 +1,6 @@
-//The try...catch statement
+///////////////////////////////
+// The try...catch statement //
+///////////////////////////////
 
 public class Example_1 {
     public static void main(String[] args) {
@@ -8,7 +10,13 @@ public class Example_1 {
             System.out.println(myNumbers[10]);
         } 
         catch(Exception e) {
-            System.out.println("Something went wrong.");
+            System.out.println(e);
         }
     }
 }
+
+/*
+Output:
+
+java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 3
+*/

@@ -1,4 +1,6 @@
-//Division operator
+///////////////////////
+// Division operator //
+///////////////////////
 
 public class Example_4 {
     public static void main(String[] args) {
@@ -8,3 +10,9 @@ public class Example_4 {
         System.out.println(x / y);
     }
 }
+
+/*
+Output:
+
+4
+*/

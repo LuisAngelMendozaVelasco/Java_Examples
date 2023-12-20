@@ -1,4 +1,6 @@
-//Method with parameters
+////////////////////////////
+// Method with parameters //
+////////////////////////////
 
 public class Example_3 {
     static void myMethod(String fname) {
@@ -11,3 +13,11 @@ public class Example_3 {
         myMethod("Anja");
     }
 }
+
+/*
+Output:
+
+Liam Refsnes
+Jenny Refsnes
+Anja Refsnes
+*/

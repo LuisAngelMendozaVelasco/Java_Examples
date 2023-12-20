@@ -1,4 +1,6 @@
-//Loop through an ArrayList
+///////////////////////////////
+// Loop through an ArrayList //
+///////////////////////////////
 
 import java.util.ArrayList;
 
@@ -15,3 +17,12 @@ public class Example_6 {
         }
     }
 }
+
+/*
+Output:
+
+Volvo
+BMW
+Ford
+Mazda
+*/

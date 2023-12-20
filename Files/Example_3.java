@@ -1,4 +1,6 @@
-//Read a file
+/////////////////
+// Read a file //
+/////////////////
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -12,7 +14,6 @@ public class Example_3 {
 
             while(myReader.hasNextLine()) {
                 String data = myReader.nextLine();
-                
                 System.out.println(data);
             }
             myReader.close();
@@ -23,3 +24,10 @@ public class Example_3 {
         } 
     }  
 }
+
+/*
+Output:
+
+An error occurred.
+java.io.FileNotFoundException: filename.txt (No such file or directory)
+*/

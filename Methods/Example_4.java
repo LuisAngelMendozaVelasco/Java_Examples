@@ -1,4 +1,6 @@
-//Method with multiple parameters
+/////////////////////////////////////
+// Method with multiple parameters //
+/////////////////////////////////////
 
 public class Example_4 {
     static void myMethod(String fname, int age) {
@@ -11,3 +13,11 @@ public class Example_4 {
         myMethod("Anja", 31);
     }
 }
+
+/*
+Output:
+
+Liam is 5
+Jenny is 8
+Anja is 31
+*/

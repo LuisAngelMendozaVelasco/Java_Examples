@@ -1,4 +1,6 @@
-//Call a method multiple times
+//////////////////////////////////
+// Call a method multiple times //
+//////////////////////////////////
 
 public class Example_2 {
     static void myMethod() {
@@ -11,3 +13,11 @@ public class Example_2 {
         myMethod();
     }
 }
+
+/*
+Output:
+
+I just got executed!
+I just got executed!
+I just got executed!
+*/

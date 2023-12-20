@@ -1,4 +1,6 @@
-//Remove all items from a HashMap
+/////////////////////////////////////
+// Remove all items from a HashMap //
+/////////////////////////////////////
 
 import java.util.HashMap;
 
@@ -14,3 +16,9 @@ public class Example_4 {
         System.out.println(capitalCities); 
     }
 }
+
+/*
+Output:
+
+{}
+*/

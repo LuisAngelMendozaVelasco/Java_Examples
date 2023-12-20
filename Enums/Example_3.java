@@ -1,11 +1,12 @@
-//An enum in a switch statement
+///////////////////////////////////
+// An enum in a switch statement //
+///////////////////////////////////
 
 enum Level {
     LOW,
     MEDIUM,
     HIGH
 }
-  
 
 public class Example_3 {
     public static void main(String[] args) {
@@ -24,3 +25,9 @@ public class Example_3 {
         }
     }
 }
+
+/*
+Output:
+
+Medium level
+*/

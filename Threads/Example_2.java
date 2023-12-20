@@ -1,4 +1,6 @@
-//Running a thread by implementing the Runnable interface
+/////////////////////////////////////////////////////////////
+// Running a thread by implementing the Runnable interface //
+/////////////////////////////////////////////////////////////
 
 public class Example_2 implements Runnable {
     public static void main(String[] args) {
@@ -6,10 +8,17 @@ public class Example_2 implements Runnable {
         Thread thread = new Thread(obj);
         
         thread.start();
-        System.out.println("This code is outside of the thread");
+        System.out.println("This code is outside of the thread.");
     }
 
     public void run() {
-        System.out.println("This code is running in a thread");
+        System.out.println("This code is running in a thread.");
     }
 }
+
+/*
+Output:
+
+This code is outside of the thread.
+This code is running in a thread.
+*/

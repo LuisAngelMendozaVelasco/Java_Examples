@@ -1,4 +1,6 @@
-//Loop through an enum
+//////////////////////////
+// Loop through an enum //
+//////////////////////////
 
 //The enum type has a values() method, which returns an array of all enum constants. This method is useful when you want to loop through the constants of an enum
 
@@ -15,3 +17,11 @@ public class Example_4 {
         }
     } 
 }
+
+/*
+Output:
+
+LOW
+MEDIUM
+HIGH
+*/

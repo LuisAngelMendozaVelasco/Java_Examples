@@ -1,4 +1,6 @@
-//Loop through a HashMap
+////////////////////////////
+// Loop through a HashMap //
+////////////////////////////
 
 import java.util.HashMap;
 
@@ -11,7 +13,14 @@ public class Example_6 {
         capitalCities.put("Norway", "Oslo");
         capitalCities.put("USA", "Washington DC");
         for (String i : capitalCities.keySet()) {
-            System.out.println("key: " + i + " value: " + capitalCities.get(i));
+            System.out.println("key: " + i + ", value: " + capitalCities.get(i));
         }
     }
 }
+
+/*
+key: USA, value: Washington DC
+key: Norway, value: Oslo
+key: England, value: London
+key: Germany, value: Berlin
+*/

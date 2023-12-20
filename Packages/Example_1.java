@@ -1,10 +1,15 @@
-//Import a class from the Java API
+//////////////////////////////////////
+// Import a class from the Java API //
+//////////////////////////////////////
 
-/*A package in Java is used to group related classes. Think of it as a folder in a file directory. We use packages to avoid name conflicts, and to write a better maintainable code. Packages are divided into two categories:
-    Built-in Packages (packages from the Java API)
-    User-defined Packages (create your own packages)*/
+/*
+A package in Java is used to group related classes. Think of it as a folder in a file directory. We use packages to avoid name conflicts, and to write a better maintainable code. 
+Packages are divided into two categories:
+- Built-in Packages (packages from the Java API)
+- User-defined Packages (create your own packages)
+*/
 
-import java.util.Scanner; // import the Scanner class 
+import java.util.Scanner; // Import the Scanner class 
 
 public class Example_1 {
     public static void main(String[] args) {
@@ -14,7 +19,15 @@ public class Example_1 {
         // Enter username and press Enter
         System.out.println("Enter username:"); 
         userName = myObj.nextLine();   
-           
         System.out.println("\nUsername is: " + userName);        
     }
 }
+
+/*
+Output:
+
+Enter username:
+Luis
+
+Username is: Luis
+*/

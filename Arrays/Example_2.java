@@ -1,4 +1,6 @@
-//Change an array element
+/////////////////////////////
+// Change an array element //
+/////////////////////////////
 
 public class Example_2 {
     public static void main(String[] args) {
@@ -8,3 +10,9 @@ public class Example_2 {
         System.out.println(cars[0]);
     }
 }
+
+/*
+Output:
+
+Opel
+*/

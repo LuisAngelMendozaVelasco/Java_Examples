@@ -1,4 +1,6 @@
-//Java inheritance
+//////////////////////
+// Java inheritance //
+//////////////////////
 
 class Vehicle {
     protected String brand = "Ford";
@@ -18,3 +20,10 @@ class Example_1 extends Vehicle {
         System.out.println(myFastCar.brand + " " + myFastCar.modelName);
     }
 }
+
+/*
+Output:
+
+Tuut, tuut!
+Ford Mustang
+*/

@@ -1,4 +1,6 @@
-//Get the size of a HashSet
+///////////////////////////////
+// Get the size of a HashSet //
+///////////////////////////////
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -15,3 +17,9 @@ public class Example_5 {
         System.out.println(cars.size());
     }
 }
+
+/*
+Output:
+
+4
+*/

@@ -1,11 +1,13 @@
-//Protected attributes
+//////////////////////////
+// Protected attributes //
+//////////////////////////
 
 class Person {
     // protected	The code is accessible in the same package and subclasses.
     protected String fname = "Luis";
     protected String lname = "Mendoza";
     protected String email = "luis@mendoza.com";
-    protected int age = 27;
+    protected int age = 29;
 }
   
 class Example_6 extends Person {
@@ -20,3 +22,12 @@ class Example_6 extends Person {
         System.out.println("Graduation Year: " + myObj.graduationYear);
     }
 }
+
+/*
+Output:
+
+Name: Luis Mendoza
+Email: luis@mendoza.com
+Age: 29
+Graduation Year: 2018
+*/

@@ -1,17 +1,25 @@
-//The else if statement
+///////////////////////////
+// The else if statement //
+///////////////////////////
 
 public class Example_3 {
     public static void main(String[] args) {
         int time = 22;
         
         if(time < 10) {
-            System.out.println("Good morning.");
+            System.out.println("Good morning!");
         } 
         else if(time < 20) {
-            System.out.println("Good day.");
+            System.out.println("Good day!");
         }  
         else {
-            System.out.println("Good evening.");
+            System.out.println("Good evening!");
         }
     }
 }
+
+/*
+Output:
+
+Good evening!
+*/

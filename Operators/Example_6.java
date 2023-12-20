@@ -1,4 +1,6 @@
-//Increment operator
+////////////////////////
+// Increment operator //
+////////////////////////
 
 public class Example_6 {
     public static void main(String[] args) {
@@ -8,3 +10,9 @@ public class Example_6 {
         System.out.println(x);
     }
 }
+
+/*
+Output:
+
+6
+*/

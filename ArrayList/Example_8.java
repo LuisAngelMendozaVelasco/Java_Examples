@@ -1,4 +1,6 @@
-//Create an ArrayList that should store numbers (integers)
+//////////////////////////////////////////////////////////////
+// Create an ArrayList that should store numbers (integers) //
+//////////////////////////////////////////////////////////////
 
 import java.util.ArrayList;
 
@@ -15,3 +17,13 @@ public class Example_8 {
         }
     } 
 }
+
+/*
+
+Output:
+
+10
+15
+20
+25
+*/

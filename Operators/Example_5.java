@@ -1,4 +1,6 @@
-//Modulus operator
+//////////////////////
+// Modulus operator //
+//////////////////////
 
 public class Example_5 {
     public static void main(String[] args) {
@@ -8,3 +10,9 @@ public class Example_5 {
         System.out.println(x % y);
     }
 }
+
+/*
+Output:
+
+1
+*/

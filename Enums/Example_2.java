@@ -1,4 +1,6 @@
-//An enum inside a class
+////////////////////////////
+// An enum inside a class //
+////////////////////////////
 
 public class Example_2 {
     enum Level {
@@ -13,3 +15,9 @@ public class Example_2 {
         System.out.println(myVar); 
     } 
 }
+
+/*
+Output:
+
+MEDIUM
+*/

@@ -1,4 +1,6 @@
-//A method with if...else
+/////////////////////////////
+// A method with if...else //
+/////////////////////////////
 
 public class Example_6 {
     // Create a checkAge() method with an integer parameter called age
@@ -17,3 +19,9 @@ public class Example_6 {
         checkAge(20); // Call the checkAge method and pass along an age of 20
     } 
 }
+
+/*
+Output:
+
+Access granted - You are old enough!
+*/

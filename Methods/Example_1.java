@@ -1,8 +1,12 @@
-//Create and call a method
+//////////////////////////////
+// Create and call a method //
+//////////////////////////////
 
-/*myMethod() is the name of the method
+/*
+myMethod() is the name of the method.
 static means that the method belongs to the Main class and not an object of the Main class.
-void means that this method does not have a return value.*/
+void means that this method does not have a return value.
+*/
 
 public class Example_1 {
     static void myMethod() {
@@ -13,3 +17,9 @@ public class Example_1 {
         myMethod();
     }
 }
+
+/*
+Output:
+
+I just got executed!
+*/

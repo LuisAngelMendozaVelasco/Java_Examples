@@ -1,4 +1,6 @@
-//Loop through an ArrayList with for-each
+/////////////////////////////////////////////
+// Loop through an ArrayList with for-each //
+/////////////////////////////////////////////
 
 import java.util.ArrayList;
 
@@ -15,3 +17,12 @@ public class Example_7 {
         }
     } 
 }
+
+/*
+Output:
+
+Volvo
+BMW
+Ford
+Mazda
+*/

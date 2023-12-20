@@ -1,4 +1,6 @@
-//Create a HashSet that should store Integer values
+///////////////////////////////////////////////////////
+// Create a HashSet that should store Integer values //
+///////////////////////////////////////////////////////
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -24,3 +26,18 @@ public class Example_7 {
         }
     }
 }
+
+/*
+Output:
+
+1 was not found in the set.
+2 was not found in the set.
+3 was not found in the set.
+4 was found in the set.
+5 was not found in the set.
+6 was not found in the set.
+7 was found in the set.
+8 was found in the set.
+9 was not found in the set.
+10 was not found in the set.
+*/

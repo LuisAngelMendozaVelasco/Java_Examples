@@ -1,4 +1,6 @@
-//Removing items from a collection
+//////////////////////////////////////
+// Removing items from a collection //
+//////////////////////////////////////
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -23,3 +25,9 @@ public class Example_3 {
         System.out.println(numbers);
     }
 }
+
+/*
+Output:
+
+[12, 23]
+*/

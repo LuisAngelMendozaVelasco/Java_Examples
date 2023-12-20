@@ -1,4 +1,6 @@
-//For loop
+//////////////
+// For loop //
+//////////////
 
 public class Example_3 {
     public static void main(String[] args) {
@@ -7,3 +9,13 @@ public class Example_3 {
         }  
     }
 }
+
+/*
+Output:
+
+0
+1
+2
+3
+4
+*/

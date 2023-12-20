@@ -1,4 +1,6 @@
-//Check if an item exists in a HashSet
+//////////////////////////////////////////
+// Check if an item exists in a HashSet //
+//////////////////////////////////////////
 
 // Import the HashSet class
 import java.util.HashSet;
@@ -15,3 +17,9 @@ public class Example_2 {
         System.out.println(cars.contains("Mazda"));
     }
 }
+
+/*
+Output:
+
+true
+*/

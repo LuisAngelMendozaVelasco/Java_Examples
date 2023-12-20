@@ -1,4 +1,6 @@
-//Return value
+//////////////////
+// Return value //
+//////////////////
 
 public class Example_5 {
     static int myMethod(int x) {
@@ -9,3 +11,9 @@ public class Example_5 {
         System.out.println(myMethod(3));
     }
 }
+
+/*
+Output:
+
+8
+*/

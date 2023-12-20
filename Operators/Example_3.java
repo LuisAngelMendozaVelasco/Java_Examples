@@ -1,4 +1,6 @@
-//Multiplication operator
+/////////////////////////////
+// Multiplication operator //
+/////////////////////////////
 
 public class Example_3 {
     public static void main(String[] args) {
@@ -8,3 +10,9 @@ public class Example_3 {
         System.out.println(x * y);
     }
 }
+
+/*
+Output:
+
+15
+*/

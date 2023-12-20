@@ -1,4 +1,6 @@
-//Method overloading
+////////////////////////
+// Method overloading //
+////////////////////////
 
 public class Example_7 {
     static int plusMethod(int x, int y) {
@@ -17,3 +19,10 @@ public class Example_7 {
         System.out.println("double: " + myNum2);
     } 
 }
+
+/*
+Output:
+
+int: 13
+double: 10.559999999999999
+*/

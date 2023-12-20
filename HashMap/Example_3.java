@@ -1,4 +1,6 @@
-//Remove an item from a HashMap
+///////////////////////////////////
+// Remove an item from a HashMap //
+///////////////////////////////////
 
 import java.util.HashMap;
 
@@ -14,3 +16,9 @@ public class Example_3 {
         System.out.println(capitalCities); 
     }
 }
+
+/*
+Output:
+
+{USA=Washington DC, Norway=Oslo, Germany=Berlin}
+*/

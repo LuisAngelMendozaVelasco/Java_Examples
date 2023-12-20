@@ -1,4 +1,6 @@
-//The switch statement
+//////////////////////////
+// The switch statement //
+//////////////////////////
 
 public class Example_1 {
     public static void main(String[] args) {
@@ -29,3 +31,9 @@ public class Example_1 {
         }
     }
 }
+
+/*
+Output:
+
+Thursday
+*/

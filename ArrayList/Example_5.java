@@ -1,4 +1,6 @@
-//Get the size of an ArrayList
+//////////////////////////////////
+// Get the size of an ArrayList //
+//////////////////////////////////
 
 import java.util.ArrayList;
 
@@ -13,3 +15,9 @@ public class Example_5 {
         System.out.println(cars.size());
     } 
 }
+
+/*
+Output:
+
+4
+*/

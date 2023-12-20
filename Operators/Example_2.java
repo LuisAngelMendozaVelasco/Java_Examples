@@ -1,4 +1,6 @@
-//Subtraction operator
+//////////////////////////
+// Subtraction operator //
+//////////////////////////
 
 public class Example_2 {
     public static void main(String[] args) {
@@ -8,3 +10,9 @@ public class Example_2 {
         System.out.println(x - y);
     }
 }
+
+/*
+Output:
+
+2
+*/

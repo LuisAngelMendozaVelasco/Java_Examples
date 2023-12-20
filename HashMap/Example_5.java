@@ -1,4 +1,6 @@
-//Get the size of a HashMap
+///////////////////////////////
+// Get the size of a HashMap //
+///////////////////////////////
 
 import java.util.HashMap;
 
@@ -13,3 +15,9 @@ public class Example_5 {
         System.out.println(capitalCities.size());
     }
 }
+
+/*
+Output:
+
+4
+*/

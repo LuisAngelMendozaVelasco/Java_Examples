@@ -1,4 +1,6 @@
-//If you add a number and a string, the result will be a string concatenation
+/////////////////////////////////////////////////////////////////////////////////
+// If you add a number and a string, the result will be a string concatenation //
+/////////////////////////////////////////////////////////////////////////////////
 
 public class Example_7 {
     public static void main(String[] args) {
@@ -9,3 +11,9 @@ public class Example_7 {
         System.out.println(z);
     }
 }
+
+/*
+Output:
+
+1020
+*/

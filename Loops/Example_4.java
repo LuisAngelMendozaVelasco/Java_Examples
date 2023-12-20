@@ -1,4 +1,6 @@
-//For-each loop
+///////////////////
+// For-each loop //
+///////////////////
 
 public class Example_4 {
     public static void main(String[] args) {
@@ -9,3 +11,12 @@ public class Example_4 {
         }    
     }
 }
+
+/*
+Output:
+
+Volvo
+BMW
+Ford
+Mazda
+*/

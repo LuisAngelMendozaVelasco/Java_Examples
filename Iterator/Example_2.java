@@ -1,4 +1,6 @@
-//Looping through a collection
+//////////////////////////////////
+// Looping through a collection //
+//////////////////////////////////
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -22,3 +24,12 @@ public class Example_2 {
         }
     }
 }
+
+/*
+Output:
+
+Volvo
+BMW
+Ford
+Mazda
+*/

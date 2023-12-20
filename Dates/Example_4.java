@@ -1,4 +1,6 @@
-//Formatting date and time
+//////////////////////////////
+// Formatting date and time //
+//////////////////////////////
 
 import java.time.LocalDateTime;  // Import the LocalDateTime class
 import java.time.format.DateTimeFormatter;  // Import the DateTimeFormatter class
@@ -15,3 +17,10 @@ public class Example_4 {
         System.out.println("After formatting: " + formattedDate);  
     }  
 }
+
+/*
+Output:
+
+Before formatting: 2023-12-20T14:58:05.824755
+After formatting: 2023-12-20 14:58:05
+*/

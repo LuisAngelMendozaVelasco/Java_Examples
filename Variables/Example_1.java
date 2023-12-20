@@ -1,9 +1,16 @@
-//Create a string variable
+//////////////////////////////
+// Create a string variable //
+//////////////////////////////
 
 public class Example_1 {
     public static void main(String[] args) {
-        String name = "John";
-        
+        String name = "Luis";    
         System.out.println(name);
     }
 }
+
+/*
+Output:
+
+Luis
+*/

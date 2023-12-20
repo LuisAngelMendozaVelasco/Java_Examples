@@ -1,4 +1,6 @@
-//The switch statement with a default keyword
+/////////////////////////////////////////////////
+// The switch statement with a default keyword //
+/////////////////////////////////////////////////
 
 public class Example_2 {
     public static void main(String[] args) {
@@ -6,13 +8,19 @@ public class Example_2 {
 
         switch (day) {
             case 6:
-                System.out.println("Today is Saturday");
+                System.out.println("Today is Saturday!");
                 break;
             case 7:
-                System.out.println("Today is Sunday");
+                System.out.println("Today is Sunday!");
                 break;
             default:
-                System.out.println("Looking forward to the Weekend");
+                System.out.println("Looking forward to the Weekend!");
         }    
     }
 }
+
+/*
+Output:
+
+Looking forward to the Weekend!
+*/
